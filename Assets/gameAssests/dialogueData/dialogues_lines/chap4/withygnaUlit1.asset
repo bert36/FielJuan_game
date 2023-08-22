@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d2997a9b5055964083c2a3dc2f100e9, type: 3}
+  m_Name: withygnaUlit1
+  m_EditorClassIdentifier: 
+  allLines:
+  - characters: {fileID: 11400000, guid: e122388135e4ec142ac6add4b50033d8, type: 2}
+    dialogue: hello, my friend.
+  - characters: {fileID: 11400000, guid: e122388135e4ec142ac6add4b50033d8, type: 2}
+    dialogue: Y-gnacio?
+  - characters: {fileID: 11400000, guid: e122388135e4ec142ac6add4b50033d8, type: 2}
+    dialogue: yes, juan.
+  - characters: {fileID: 11400000, guid: e1f68aba38e0fdc4ab67ae4cd0bcd0ec, type: 2}
+    dialogue: please,let me go.
+  - characters: {fileID: 11400000, guid: e122388135e4ec142ac6add4b50033d8, type: 2}
+    dialogue: No, you can't.

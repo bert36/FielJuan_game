@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d2997a9b5055964083c2a3dc2f100e9, type: 3}
+  m_Name: withguardia
+  m_EditorClassIdentifier: 
+  allLines:
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: "Is this Don Antonio\u2019s house?"
+  - characters: {fileID: 11400000, guid: 6e9373f99dc1a6f4091faa58317d86ea, type: 2}
+    dialogue: "This is Don Antonio\u2019s hacienda. Why are you looking for Don?"
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: I was ordered to come here and give this scroll to Don Antonio.
+  - characters: {fileID: 11400000, guid: c0d3d9407a6a8464dbd4e8d9feb26f2b, type: 2}
+    dialogue: Pathetic.

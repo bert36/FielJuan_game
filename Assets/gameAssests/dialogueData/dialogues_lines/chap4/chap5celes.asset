@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d2997a9b5055964083c2a3dc2f100e9, type: 3}
+  m_Name: chap5celes
+  m_EditorClassIdentifier: 
+  allLines:
+  - characters: {fileID: 11400000, guid: 4ac232c8bd31ed54ba4f866a866928b9, type: 2}
+    dialogue: k-kuya...?
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: Celestine!
+  - characters: {fileID: 11400000, guid: 4ac232c8bd31ed54ba4f866a866928b9, type: 2}
+    dialogue: I-is that really you, kuya?
+  - characters: {fileID: 11400000, guid: 4ac232c8bd31ed54ba4f866a866928b9, type: 2}
+    dialogue: or another person of gallego?
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: no, im not. i am your kuya juan, celestine.
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: i'm here to save you.
+  - characters: {fileID: 11400000, guid: 4ac232c8bd31ed54ba4f866a866928b9, type: 2}
+    dialogue: "then prove that you are my Kuya Juan\u2026"
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: "We always walk at night\u2026"
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: because you love the moon very much,
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: "always adoring the stars at night\u2026"
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: "\u201Cyou wanted me to come with you every time so that we can make
+      a wish if \r we would see a falling star"
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: " (groans)\r"
+  - characters: {fileID: 11400000, guid: 49a75d0e82571e141bba08d10313654b, type: 2}
+    dialogue: K-kuya Juan!
+  - characters: {fileID: 11400000, guid: 4ac232c8bd31ed54ba4f866a866928b9, type: 2}
+    dialogue: "Are you okay? Is anything wrong? I believe in you now\u2026"
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: "It\u2019s my fault\u2026 I couldn\u2019t protect you."
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: "Sorry for not protecting you, Celestine\u2026 Our family\u2026"
+  - characters: {fileID: 11400000, guid: 4ac232c8bd31ed54ba4f866a866928b9, type: 2}
+    dialogue: "It\u2019s not your fault!"
+  - characters: {fileID: 11400000, guid: 49a75d0e82571e141bba08d10313654b, type: 2}
+    dialogue: "Kuya, you\u2019re always protecting me,"
+  - characters: {fileID: 11400000, guid: 4ac232c8bd31ed54ba4f866a866928b9, type: 2}
+    dialogue: "you are here to save me, right? I know it\u2019s hard, Kuya, and I
+      understand."
+  - characters: {fileID: 11400000, guid: 4ac232c8bd31ed54ba4f866a866928b9, type: 2}
+    dialogue: The important thing is you are here with me.
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: "As long as you\u2019re safe\u2026"
+  - characters: {fileID: 11400000, guid: 4ac232c8bd31ed54ba4f866a866928b9, type: 2}
+    dialogue: "\u201CI\u2019m safe now because you are already by my side, Kuya."
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: "Let\u2019s get out of here!"

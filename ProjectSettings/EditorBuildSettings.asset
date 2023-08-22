@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/gamemain.unity
+    guid: e49d1440d9bb3404f8f553bb4064cc0e
+  - enabled: 1
+    path: Assets/Scenes/chapter1_church.unity
+    guid: e32b261e2c2487c47bc09a8ee68b3888
+  - enabled: 1
+    path: Assets/Scenes/chap1Town.unity
+    guid: e69fec822adb668438fab26f7800a908
+  - enabled: 1
+    path: Assets/Scenes/chapter1_mazeforest.unity
+    guid: 3545b0302659c3048a7c122ca4e2e4bb
+  - enabled: 1
+    path: Assets/Scenes/chapter2new 1.unity
+    guid: 5a97dce478873bd46bb30ffaff7c2bda
+  - enabled: 1
+    path: Assets/Scenes/chapter2_part2.unity
+    guid: 27f02507d9f81c44c99329aa8916ce3a
+  - enabled: 1
+    path: Assets/Scenes/chapter2-part3.unity
+    guid: c7d14c1e4a5564144b12778fc22afd11
+  - enabled: 1
+    path: Assets/Scenes/chapter3.unity
+    guid: 75315d01a2801bd48b5566e590796ae4
+  - enabled: 1
+    path: Assets/Scenes/chapter4part1.unity
+    guid: 80f377a892f2c03478dc3bee3fdb382f
+  - enabled: 1
+    path: Assets/Scenes/chapter4scene2.unity
+    guid: 9a0c907b92e87124781474229c037c74
+  - enabled: 1
+    path: Assets/Scenes/chapter4scene3.unity
+    guid: 44ffa32e43224834992d3fa041ab391e
+  - enabled: 1
+    path: Assets/Scenes/chapter4scene4.unity
+    guid: 35b7fe0f86b697147add45c445cc284d
+  - enabled: 1
+    path: Assets/Scenes/endmenu.unity
+    guid: 5930392e86064414eae7a0e5ead0b51b
+  m_configObjects: {}

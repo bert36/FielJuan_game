@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d2997a9b5055964083c2a3dc2f100e9, type: 3}
+  m_Name: withlara
+  m_EditorClassIdentifier: 
+  allLines:
+  - characters: {fileID: 11400000, guid: 6648caf233c97ed468c051946bee74af, type: 2}
+    dialogue: la, did kuya jose come back home?
+  - characters: {fileID: 11400000, guid: 621e3bfc2b402674f8ca04aa7e26c33d, type: 2}
+    dialogue: not yet, lara.
+  - characters: {fileID: 11400000, guid: 6648caf233c97ed468c051946bee74af, type: 2}
+    dialogue: but its klara bithday today. i wanted to surprise her favorite pineapple....
+  - characters: {fileID: 11400000, guid: 621e3bfc2b402674f8ca04aa7e26c33d, type: 2}
+    dialogue: is that so?
+  - characters: {fileID: 11400000, guid: 621e3bfc2b402674f8ca04aa7e26c33d, type: 2}
+    dialogue: I can help you harvest in your backyard.
+  - characters: {fileID: 11400000, guid: 6648caf233c97ed468c051946bee74af, type: 2}
+    dialogue: reallt, lola? letsgo!
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: wait!
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: instead of your lola constancia, is it okay if i'm the one who will
+      harvest the pineapple?
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: i dont want her to be tired.
+  - characters: {fileID: 11400000, guid: 6648caf233c97ed468c051946bee74af, type: 2}
+    dialogue: hmmmm....
+  - characters: {fileID: 11400000, guid: 621e3bfc2b402674f8ca04aa7e26c33d, type: 2}
+    dialogue: juan.
+  - characters: {fileID: 11400000, guid: 621e3bfc2b402674f8ca04aa7e26c33d, type: 2}
+    dialogue: it's okay, i can harvest pineapple.it's easy.
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: and it's okay to just stay here and rest. isn't it much more preferable?
+  - characters: {fileID: 11400000, guid: 621e3bfc2b402674f8ca04aa7e26c33d, type: 2}
+    dialogue: but-..
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: it's okay. it's fine, really.
+  - characters: {fileID: 11400000, guid: 621e3bfc2b402674f8ca04aa7e26c33d, type: 2}
+    dialogue: okay.
+  - characters: {fileID: 11400000, guid: 6648caf233c97ed468c051946bee74af, type: 2}
+    dialogue: follow me kuya-..
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: i'm juan.
+  - characters: {fileID: 11400000, guid: 6648caf233c97ed468c051946bee74af, type: 2}
+    dialogue: okay, kuya juan its go.

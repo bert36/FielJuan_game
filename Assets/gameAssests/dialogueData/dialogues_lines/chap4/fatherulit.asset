@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d2997a9b5055964083c2a3dc2f100e9, type: 3}
+  m_Name: fatherulit
+  m_EditorClassIdentifier: 
+  allLines:
+  - characters: {fileID: 11400000, guid: 68843ede2d8bc68469775807196325c7, type: 2}
+    dialogue: that's the beautiful story of your mother and me.
+  - characters: {fileID: 11400000, guid: 87c2642473d3b9d4da18ae0eaa5ce31b, type: 2}
+    dialogue: are you even a human?
+  - characters: {fileID: 11400000, guid: 246ff2505d2256d4db13bdbefce4481c, type: 2}
+    dialogue: (scoffs)
+  - characters: {fileID: 11400000, guid: 246ff2505d2256d4db13bdbefce4481c, type: 2}
+    dialogue: palomi deserves to die! i should be Ines's dusband!
+  - characters: {fileID: 11400000, guid: 246ff2505d2256d4db13bdbefce4481c, type: 2}
+    dialogue: I truly loved Ines, Juan. I love her even if it taints my name!
+  - characters: {fileID: 11400000, guid: 246ff2505d2256d4db13bdbefce4481c, type: 2}
+    dialogue: "I\u2019m willing to give and sacrifice everything, but she chooses\r
+      Palomi over me!"
+  - characters: {fileID: 11400000, guid: 246ff2505d2256d4db13bdbefce4481c, type: 2}
+    dialogue: your mother is a fool! Just after for money!
+  - characters: {fileID: 11400000, guid: e1f68aba38e0fdc4ab67ae4cd0bcd0ec, type: 2}
+    dialogue: What kind of love is that?
+  - characters: {fileID: 11400000, guid: 246ff2505d2256d4db13bdbefce4481c, type: 2}
+    dialogue: Basta! You are still young. What do you know about love!
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: I am still young, but I will not kill people for the one I love...
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: "If you really loved my mother, you should let her be happy with someone
+      \relse!"
+  - characters: {fileID: 11400000, guid: 246ff2505d2256d4db13bdbefce4481c, type: 2}
+    dialogue: Tonto!
+  - characters: {fileID: 11400000, guid: 246ff2505d2256d4db13bdbefce4481c, type: 2}
+    dialogue: "Let\u2019s see if you still have the guts to answer if Celestine dies."
+  - characters: {fileID: 11400000, guid: 246ff2505d2256d4db13bdbefce4481c, type: 2}
+    dialogue: "W-what? Where\u2019s Celestine? What did you do to her!?"
+  - characters: {fileID: 11400000, guid: 246ff2505d2256d4db13bdbefce4481c, type: 2}
+    dialogue: Find her as fast as you can, young boy...
+  - characters: {fileID: 11400000, guid: 246ff2505d2256d4db13bdbefce4481c, type: 2}
+    dialogue: cause if not, your younger sister will also die in my hands!

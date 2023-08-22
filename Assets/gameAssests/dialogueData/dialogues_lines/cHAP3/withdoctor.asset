@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d2997a9b5055964083c2a3dc2f100e9, type: 3}
+  m_Name: withdoctor
+  m_EditorClassIdentifier: 
+  allLines:
+  - characters: {fileID: 11400000, guid: a79a0b27ddea8ce4e8a1af33bd2049da, type: 2}
+    dialogue: What can I do for you?
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: "Are you Doctor Ra\xF1ada?"
+  - characters: {fileID: 11400000, guid: a79a0b27ddea8ce4e8a1af33bd2049da, type: 2}
+    dialogue: Yes, I am, so what is your problem?
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: It started when I was involved in an accident.
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: They said that my sister and I were kidnapped.
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: "Apparently, my sister did not make it\u2026"
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: My head hurt, especially when I tried remembering what happened.
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: I also faint whenever I'm doing things that need a lot of energy,
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: "and it\u2019s hard for me to sleep at night\u2026"
+  - characters: {fileID: 11400000, guid: a79a0b27ddea8ce4e8a1af33bd2049da, type: 2}
+    dialogue: "Okay, let\u2019s see what I can do for you."
+  - characters: {fileID: 11400000, guid: a79a0b27ddea8ce4e8a1af33bd2049da, type: 2}
+    dialogue: Just relax. Breathe in, breathe out.
+  - characters: {fileID: 11400000, guid: a79a0b27ddea8ce4e8a1af33bd2049da, type: 2}
+    dialogue: On the count of 3, close your eyes.
+  - characters: {fileID: 11400000, guid: a79a0b27ddea8ce4e8a1af33bd2049da, type: 2}
+    dialogue: "1\u2026 2\u2026. 3"

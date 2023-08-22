@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d2997a9b5055964083c2a3dc2f100e9, type: 3}
+  m_Name: withConstancia
+  m_EditorClassIdentifier: 
+  allLines:
+  - characters: {fileID: 11400000, guid: 99bbecc36579c41439ca8ce225d7fa8f, type: 2}
+    dialogue: "aling constancia, someone\u2019s here!"
+  - characters: {fileID: 11400000, guid: 621e3bfc2b402674f8ca04aa7e26c33d, type: 2}
+    dialogue: alonso, Hijo!
+  - characters: {fileID: 11400000, guid: 99bbecc36579c41439ca8ce225d7fa8f, type: 2}
+    dialogue: How are you, Aling Constancia?
+  - characters: {fileID: 11400000, guid: 621e3bfc2b402674f8ca04aa7e26c33d, type: 2}
+    dialogue: "I\u2019m fine-"
+  - characters: {fileID: 11400000, guid: 621e3bfc2b402674f8ca04aa7e26c33d, type: 2}
+    dialogue: No, wait! The chickens are gone missing!
+  - characters: {fileID: 11400000, guid: 99bbecc36579c41439ca8ce225d7fa8f, type: 2}
+    dialogue: How did it happen?
+  - characters: {fileID: 11400000, guid: 621e3bfc2b402674f8ca04aa7e26c33d, type: 2}
+    dialogue: "I don\u2019t know. I just found out."
+  - characters: {fileID: 11400000, guid: 621e3bfc2b402674f8ca04aa7e26c33d, type: 2}
+    dialogue: Maybe I forgot to close the door when I was feeding them.
+  - characters: {fileID: 11400000, guid: 621e3bfc2b402674f8ca04aa7e26c33d, type: 2}
+    dialogue: "It\u2019s my fault. How am I supposed to bring those chickens \r\nback?"
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: Uhm, maybe I can help?
+  - characters: {fileID: 11400000, guid: 99bbecc36579c41439ca8ce225d7fa8f, type: 2}
+    dialogue: Right! Aling Constancia, this is Juan. He said he is looking for you.
+  - characters: {fileID: 11400000, guid: 621e3bfc2b402674f8ca04aa7e26c33d, type: 2}
+    dialogue: "Juan, Hijo! I\u2019m sorry for not noticing you earlier. I panicked."
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: "No, it\u2019s okay. I understand."
+  - characters: {fileID: 11400000, guid: 621e3bfc2b402674f8ca04aa7e26c33d, type: 2}
+    dialogue: You can help me, Hijo?
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: Yes,I'll bring back all the checken.

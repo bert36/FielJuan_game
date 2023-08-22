@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d2997a9b5055964083c2a3dc2f100e9, type: 3}
+  m_Name: withtamara
+  m_EditorClassIdentifier: 
+  allLines:
+  - characters: {fileID: 11400000, guid: b15fee170f9580644b07cacc903cf7da, type: 2}
+    dialogue: lara!
+  - characters: {fileID: 11400000, guid: 6648caf233c97ed468c051946bee74af, type: 2}
+    dialogue: mama?
+  - characters: {fileID: 11400000, guid: b15fee170f9580644b07cacc903cf7da, type: 2}
+    dialogue: where have you been anak?
+  - characters: {fileID: 11400000, guid: 6648caf233c97ed468c051946bee74af, type: 2}
+    dialogue: i visited la hoping that kuya jose is there, but he isn't.
+  - characters: {fileID: 11400000, guid: b15fee170f9580644b07cacc903cf7da, type: 2}
+    dialogue: then who is this young man.
+  - characters: {fileID: 11400000, guid: 6648caf233c97ed468c051946bee74af, type: 2}
+    dialogue: are you talking about kuya juan?
+  - characters: {fileID: 11400000, guid: b15fee170f9580644b07cacc903cf7da, type: 2}
+    dialogue: juan?
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: hello, im juan.
+  - characters: {fileID: 11400000, guid: b15fee170f9580644b07cacc903cf7da, type: 2}
+    dialogue: what a young nice uy you are, juan.
+  - characters: {fileID: 11400000, guid: b15fee170f9580644b07cacc903cf7da, type: 2}
+    dialogue: i'm tamara, lara's mom.
+  - characters: {fileID: 11400000, guid: 6648caf233c97ed468c051946bee74af, type: 2}
+    dialogue: ma,m is klara up?
+  - characters: {fileID: 11400000, guid: b15fee170f9580644b07cacc903cf7da, type: 2}
+    dialogue: not yet. she,s still sleeping.
+  - characters: {fileID: 11400000, guid: 6648caf233c97ed468c051946bee74af, type: 2}
+    dialogue: okay
+  - characters: {fileID: 11400000, guid: b15fee170f9580644b07cacc903cf7da, type: 2}
+    dialogue: let me bring those pineapples, klara wil be glad when she sees this
+  - characters: {fileID: 11400000, guid: b15fee170f9580644b07cacc903cf7da, type: 2}
+    dialogue: come on, juan, join us.
+  - characters: {fileID: 11400000, guid: 6648caf233c97ed468c051946bee74af, type: 2}
+    dialogue: lets go.
+  - characters: {fileID: 11400000, guid: b15fee170f9580644b07cacc903cf7da, type: 2}
+    dialogue: i forgot that we need flowers.
+  - characters: {fileID: 11400000, guid: b15fee170f9580644b07cacc903cf7da, type: 2}
+    dialogue: juan, is its okay if you pick some flowers?
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: sure!

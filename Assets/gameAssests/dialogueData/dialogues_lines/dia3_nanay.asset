@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d2997a9b5055964083c2a3dc2f100e9, type: 3}
+  m_Name: dia3_nanay
+  m_EditorClassIdentifier: 
+  allLines:
+  - characters: {fileID: 11400000, guid: 84259ab7fdff1d5469fd5bb0a7f08d6b, type: 2}
+    dialogue: Juan Im glad you're safe!
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: ......
+  - characters: {fileID: 11400000, guid: 324094d6a91217741a6807aab305aa3c, type: 2}
+    dialogue: He doesn't remember anything Nay
+  - characters: {fileID: 11400000, guid: 324094d6a91217741a6807aab305aa3c, type: 2}
+    dialogue: He doesn't remember us,
+  - characters: {fileID: 11400000, guid: 324094d6a91217741a6807aab305aa3c, type: 2}
+    dialogue: and he plans to leave this place.
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: I'm going to investigate,
+  - characters: {fileID: 11400000, guid: 84259ab7fdff1d5469fd5bb0a7f08d6b, type: 2}
+    dialogue: Juan-
+  - characters: {fileID: 11400000, guid: 324094d6a91217741a6807aab305aa3c, type: 2}
+    dialogue: Nay, let him be. if that's what he wants to do.
+  - characters: {fileID: 11400000, guid: 84259ab7fdff1d5469fd5bb0a7f08d6b, type: 2}
+    dialogue: Fine, but he will leave tomorrow, not today.
+  - characters: {fileID: 11400000, guid: 84259ab7fdff1d5469fd5bb0a7f08d6b, type: 2}
+    dialogue: Juan should rest for now.

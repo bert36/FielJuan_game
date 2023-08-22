@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d2997a9b5055964083c2a3dc2f100e9, type: 3}
+  m_Name: Dia1_ jaun and father
+  m_EditorClassIdentifier: 
+  allLines:
+  - characters: {fileID: 11400000, guid: d3b2e47a31c2ce543bc56d8fc63b702d, type: 2}
+    dialogue: Juan how you feeling??
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: ...........
+  - characters: {fileID: 11400000, guid: d3b2e47a31c2ce543bc56d8fc63b702d, type: 2}
+    dialogue: I've been worried about you-
+  - characters: {fileID: 11400000, guid: d3b2e47a31c2ce543bc56d8fc63b702d, type: 2}
+    dialogue: I didn't know that cult is really true,
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: What?
+  - characters: {fileID: 11400000, guid: d3b2e47a31c2ce543bc56d8fc63b702d, type: 2}
+    dialogue: Juan, I'm sorry Celestine didn't make it..
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: I'm sorry, but I don't remember anything-
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: Is my name Juan?
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: Where am I?
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: What happened?
+  - characters: {fileID: 11400000, guid: d3b2e47a31c2ce543bc56d8fc63b702d, type: 2}
+    dialogue: We are worried about you.
+  - characters: {fileID: 11400000, guid: d3b2e47a31c2ce543bc56d8fc63b702d, type: 2}
+    dialogue: You are Juan Miguel, and everyone here calls you Juan,
+  - characters: {fileID: 11400000, guid: d3b2e47a31c2ce543bc56d8fc63b702d, type: 2}
+    dialogue: Celestine is your sister..
+  - characters: {fileID: 11400000, guid: d3b2e47a31c2ce543bc56d8fc63b702d, type: 2}
+    dialogue: I don't know much delails about your parents-
+  - characters: {fileID: 11400000, guid: d3b2e47a31c2ce543bc56d8fc63b702d, type: 2}
+    dialogue: but since then, the two of you grew up here in the orphan.
+  - characters: {fileID: 11400000, guid: d3b2e47a31c2ce543bc56d8fc63b702d, type: 2}
+    dialogue: Both of you disappeared for days,
+  - characters: {fileID: 11400000, guid: d3b2e47a31c2ce543bc56d8fc63b702d, type: 2}
+    dialogue: We kept searching for you two-
+  - characters: {fileID: 11400000, guid: d3b2e47a31c2ce543bc56d8fc63b702d, type: 2}
+    dialogue: only to find out that you are kidnapped by the cult..
+  - characters: {fileID: 11400000, guid: d3b2e47a31c2ce543bc56d8fc63b702d, type: 2}
+    dialogue: You're luvky and i'm thankful the you survived this..
+  - characters: {fileID: 11400000, guid: e1f68aba38e0fdc4ab67ae4cd0bcd0ec, type: 2}
+    dialogue: No!
+  - characters: {fileID: 11400000, guid: e1f68aba38e0fdc4ab67ae4cd0bcd0ec, type: 2}
+    dialogue: I'm not buying yuor lies!
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: I'm not believing anything!
+  - characters: {fileID: 11400000, guid: d3b2e47a31c2ce543bc56d8fc63b702d, type: 2}
+    dialogue: Seems you have amnesia Juan,
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: No,I'm going to find out myself.

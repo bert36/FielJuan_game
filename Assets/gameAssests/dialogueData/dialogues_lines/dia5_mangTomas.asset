@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d2997a9b5055964083c2a3dc2f100e9, type: 3}
+  m_Name: dia5_mangTomas
+  m_EditorClassIdentifier: 
+  allLines:
+  - characters: {fileID: 11400000, guid: 6e384e0925d2abf4db5f9ce5a843da47, type: 2}
+    dialogue: Carefull in there, boy like you should be in the woods
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: is this is the way to barrio Dagupan?
+  - characters: {fileID: 11400000, guid: 6e384e0925d2abf4db5f9ce5a843da47, type: 2}
+    dialogue: yes it a shortcut, flip your shirt when things got lost.

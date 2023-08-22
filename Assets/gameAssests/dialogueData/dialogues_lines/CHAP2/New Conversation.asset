@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d2997a9b5055964083c2a3dc2f100e9, type: 3}
+  m_Name: New Conversation
+  m_EditorClassIdentifier: 
+  allLines:
+  - characters: {fileID: 11400000, guid: 621e3bfc2b402674f8ca04aa7e26c33d, type: 2}
+    dialogue: juan?
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: what happened?
+  - characters: {fileID: 11400000, guid: 621e3bfc2b402674f8ca04aa7e26c33d, type: 2}
+    dialogue: you passed out...
+  - characters: {fileID: 11400000, guid: 621e3bfc2b402674f8ca04aa7e26c33d, type: 2}
+    dialogue: i told you i can harvest the pineapple,
+  - characters: {fileID: 11400000, guid: 621e3bfc2b402674f8ca04aa7e26c33d, type: 2}
+    dialogue: look at what had happened...
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: i'm sorry
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: but it's okay aling constancia. i'm fine.
+  - characters: {fileID: 11400000, guid: 621e3bfc2b402674f8ca04aa7e26c33d, type: 2}
+    dialogue: call me, lola.
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: okay lola.
+  - characters: {fileID: 11400000, guid: 621e3bfc2b402674f8ca04aa7e26c33d, type: 2}
+    dialogue: so what is it? why are you looking for me, juan?
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: .......
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: nanay luningning told me that you can help me...
+  - characters: {fileID: 11400000, guid: 621e3bfc2b402674f8ca04aa7e26c33d, type: 2}
+    dialogue: you came from san carlos?
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: yes
+  - characters: {fileID: 11400000, guid: 621e3bfc2b402674f8ca04aa7e26c33d, type: 2}
+    dialogue: i see.
+  - characters: {fileID: 11400000, guid: 621e3bfc2b402674f8ca04aa7e26c33d, type: 2}
+    dialogue: Luningning is a great friend of mine,
+  - characters: {fileID: 11400000, guid: 621e3bfc2b402674f8ca04aa7e26c33d, type: 2}
+    dialogue: "and I think I know now why you came here\u2026."
+  - characters: {fileID: 11400000, guid: 621e3bfc2b402674f8ca04aa7e26c33d, type: 2}
+    dialogue: Is it about the cult?
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: ....
+  - characters: {fileID: 11400000, guid: 621e3bfc2b402674f8ca04aa7e26c33d, type: 2}
+    dialogue: Hijo, this is a dire and dangerous thing.
+  - characters: {fileID: 11400000, guid: 621e3bfc2b402674f8ca04aa7e26c33d, type: 2}
+    dialogue: Do you really want to know the truth?
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: yes.
+  - characters: {fileID: 11400000, guid: 621e3bfc2b402674f8ca04aa7e26c33d, type: 2}
+    dialogue: Actually, this still remains a mystery to us...
+  - characters: {fileID: 11400000, guid: 621e3bfc2b402674f8ca04aa7e26c33d, type: 2}
+    dialogue: there are so many rumors lingering around the town.
+  - characters: {fileID: 11400000, guid: 621e3bfc2b402674f8ca04aa7e26c33d, type: 2}
+    dialogue: "But I\u2019m sure their leader is a Priest."
+  - characters: {fileID: 11400000, guid: 621e3bfc2b402674f8ca04aa7e26c33d, type: 2}
+    dialogue: The mastermind of all of this are people who have powers.
+  - characters: {fileID: 11400000, guid: 621e3bfc2b402674f8ca04aa7e26c33d, type: 2}
+    dialogue: because they still here even the years of investigation
+  - characters: {fileID: 11400000, guid: 621e3bfc2b402674f8ca04aa7e26c33d, type: 2}
+    dialogue: "The number of cases was just rising\u2026."
+  - characters: {fileID: 11400000, guid: 621e3bfc2b402674f8ca04aa7e26c33d, type: 2}
+    dialogue: "More lives\u2026 more innocent children were killed..."
+  - characters: {fileID: 11400000, guid: 621e3bfc2b402674f8ca04aa7e26c33d, type: 2}
+    dialogue: I warned you, Juan.
+  - characters: {fileID: 11400000, guid: 621e3bfc2b402674f8ca04aa7e26c33d, type: 2}
+    dialogue: This is dangerous.
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: I know.
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: "But no one else will do this if I would not\u2026."
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: Besides, I want to bring my memories back.
+  - characters: {fileID: 11400000, guid: 621e3bfc2b402674f8ca04aa7e26c33d, type: 2}
+    dialogue: Bring your memories back?
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: "I lost my memories\u2026."
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: and my sister Celestine.
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: They said that we have been missing for days,
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: then later found out that we got kidnapped by the cult.
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: "I survived while my sister did not make it\u2026."
+  - characters: {fileID: 11400000, guid: 621e3bfc2b402674f8ca04aa7e26c33d, type: 2}
+    dialogue: "Hijo, I\u2019m sorry for your loss\u2026."
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: "It\u2019s okay, La. I\u2019m here for the truth."
+  - characters: {fileID: 11400000, guid: 621e3bfc2b402674f8ca04aa7e26c33d, type: 2}
+    dialogue: I warned you, Juan.
+  - characters: {fileID: 11400000, guid: 621e3bfc2b402674f8ca04aa7e26c33d, type: 2}
+    dialogue: "You should spend the night here.\u201D"
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: thank you

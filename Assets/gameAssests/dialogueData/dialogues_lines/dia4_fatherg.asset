@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d2997a9b5055964083c2a3dc2f100e9, type: 3}
+  m_Name: dia4_fatherg
+  m_EditorClassIdentifier: 
+  allLines:
+  - characters: {fileID: 11400000, guid: a127291e7c7b8a24f92e6e4b743de705, type: 2}
+    dialogue: Juan??
+  - characters: {fileID: 11400000, guid: a127291e7c7b8a24f92e6e4b743de705, type: 2}
+    dialogue: Why are you here?
+  - characters: {fileID: 11400000, guid: a127291e7c7b8a24f92e6e4b743de705, type: 2}
+    dialogue: You are supposed to rest'
+  - characters: {fileID: 11400000, guid: a127291e7c7b8a24f92e6e4b743de705, type: 2}
+    dialogue: you have amnesia-
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: I know,
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: andI want to know the truth.
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: I want to remember what really happened.
+  - characters: {fileID: 11400000, guid: a127291e7c7b8a24f92e6e4b743de705, type: 2}
+    dialogue: by visiting your sister's grave?
+  - characters: {fileID: 11400000, guid: a127291e7c7b8a24f92e6e4b743de705, type: 2}
+    dialogue: Juan!
+  - characters: {fileID: 11400000, guid: a127291e7c7b8a24f92e6e4b743de705, type: 2}
+    dialogue: you still need to rest. look at what just happened.
+  - characters: {fileID: 11400000, guid: e1f68aba38e0fdc4ab67ae4cd0bcd0ec, type: 2}
+    dialogue: No, I want to remember by myself.
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: I want to knowthat really happened.
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: I know that I can do it by myself.
+  - characters: {fileID: 11400000, guid: a127291e7c7b8a24f92e6e4b743de705, type: 2}
+    dialogue: Juan-
+  - characters: {fileID: 11400000, guid: 87c2642473d3b9d4da18ae0eaa5ce31b, type: 2}
+    dialogue: I said i will, and Ican do it by myself!!
+  - characters: {fileID: 11400000, guid: a127291e7c7b8a24f92e6e4b743de705, type: 2}
+    dialogue: Juan its very dangerous..
+  - characters: {fileID: 11400000, guid: a127291e7c7b8a24f92e6e4b743de705, type: 2}
+    dialogue: you just woke up from a coma!
+  - characters: {fileID: 11400000, guid: e1f68aba38e0fdc4ab67ae4cd0bcd0ec, type: 2}
+    dialogue: I don't care,
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: I dont want to live without trying to recoverthe memories that Ihave.
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: I can't trust people-
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: I can't trust anyone except for my self.
+  - characters: {fileID: 11400000, guid: a127291e7c7b8a24f92e6e4b743de705, type: 2}
+    dialogue: so you will find those cults that kidnapped you?
+  - characters: {fileID: 11400000, guid: a127291e7c7b8a24f92e6e4b743de705, type: 2}
+    dialogue: Its very dangerous, juan.
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: I've finally decided,
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: No one can stop me from leaving this place.
+  - characters: {fileID: 11400000, guid: a127291e7c7b8a24f92e6e4b743de705, type: 2}
+    dialogue: Take this
+  - characters: {fileID: 11400000, guid: a127291e7c7b8a24f92e6e4b743de705, type: 2}
+    dialogue: when you struggle and starts to lose hope-
+  - characters: {fileID: 11400000, guid: a127291e7c7b8a24f92e6e4b743de705, type: 2}
+    dialogue: just pray and hold this. he will guide you.
+  - characters: {fileID: 11400000, guid: eaf67dc24e6478244a6fe2782d02ac6b, type: 2}
+    dialogue: Thank you
